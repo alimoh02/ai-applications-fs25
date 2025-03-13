@@ -1,1 +1,8 @@
 scikit-learn
+geopy
+pandas
+numpy
+scikit-learn
+geopy
+gradio
+joblib
